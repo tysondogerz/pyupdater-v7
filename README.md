@@ -1,0 +1,1 @@
+# pyupdater-v7
